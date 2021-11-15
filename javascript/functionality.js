@@ -79,7 +79,7 @@
         // console.log(d(1, 2));
 
     // IIFE
-        // (function namedIIFE(){
+        // (function(){
         //     console.log("Immediately invoked function execution")
         // })();
 
